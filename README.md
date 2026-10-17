@@ -1,9 +1,5 @@
 # 4.10
 
-day b oi
-Oke b ơi
-Cảm ơn b nhé
-https://github.com/hoanviet62-lang/builehoan
 # BÁO CÁO BÀI TẬP
 
 ## THÔNG TIN SINH VIÊN
